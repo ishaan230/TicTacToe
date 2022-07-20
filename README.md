@@ -1,4 +1,4 @@
-# tictactoe_elc
+# tictactoe
 
 A new Flutter project.
 
